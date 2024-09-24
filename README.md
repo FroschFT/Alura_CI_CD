@@ -7,7 +7,7 @@
 - **Containers Docker**: Crie containers para rodar testes automaticamente.
 - **Entrega Contínua**: Implemente utilizando serviços de cloud.
 
-Ao final, você terá um pipeline funcional de CI/CD, otimizando seus processos de desenvolvimento e entregando software com mais agilidade e confiabilidade.
+Ao final, terá um pipeline funcional de CI/CD, otimizando seus processos de desenvolvimento e entregando software com mais agilidade e confiabilidade.
 
 ## O que é Integração Contínua (Continuous Integration/CI)?
 
